@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interesting_fact": "Japan is known for its cherry blossom trees and advanced technology."
+  },
+  {
+    "id": 2,
+    "country": "India",
+    "capital": "New Delhi",
+    "population": 1393000000,
+    "interesting_fact": "India is the largest democracy in the world."
+  },
+  {
+    "id": 3,
+    "country": "Brazil",
+    "capital": "Brasília",
+    "population": 213000000,
+    "interesting_fact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest."
+  },
+  {
+    "id": 4,
+    "country": "Germany",
+    "capital": "Berlin",
+    "population": 83000000,
+    "interesting_fact": "Germany is famous for its engineering and automotive industry."
+  },
+  {
+    "id": 5,
+    "country": "Australia",
+    "capital": "Canberra",
+    "population": 25600000,
+    "interesting_fact": "Australia is known for its unique wildlife and the Great Barrier Reef."
+  },
+  {
+    "id": 6,
+    "country": "Canada",
+    "capital": "Ottawa",
+    "population": 38000000,
+    "interesting_fact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 7,
+    "country": "Egypt",
+    "capital": "Cairo",
+    "population": 102000000,
+    "interesting_fact": "Egypt is home to the ancient pyramids, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 8,
+    "country": "France",
+    "capital": "Paris",
+    "population": 67000000,
+    "interesting_fact": "France is famous for its art, fashion, and gastronomy."
+  },
+  {
+    "id": 9,
+    "country": "South Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interesting_fact": "South Africa has three capital cities and is known as the Rainbow Nation."
+  }
+]
