@@ -71,7 +71,7 @@ function Header() {
         {/* ---------- Get Started Button ---------- */}
         <div>
           <NavLink to="/get-started">
-            <button className="bg-teal-500 px-6 py-2 rounded-2xl text-lg font-semibold font-sans transition-all duration-200 hover:scale-105 hover:bg-teal-600">
+            <button className="bg-teal-600 px-6 py-2 rounded-2xl text-lg font-semibold font-sans transition-all duration-200 hover:scale-105 hover:bg-teal-600">
               Get Started
             </button>
           </NavLink>
